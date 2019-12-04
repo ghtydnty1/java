@@ -13,3 +13,9 @@
 random함수를 이용한 컴퓨터숫자 맞추기
 
 [HW2](./HW2_2.java)
+
+세번째 과제
+
+implements를 활용한 버스 좌석 예약
+
+[HW3](./HW3_3.java)
