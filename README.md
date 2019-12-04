@@ -30,4 +30,4 @@ Final project
 
 스마트형 냉장고 만들기
 
-[Final Project](./project.java)
+[Final Project](./Project.zip)
