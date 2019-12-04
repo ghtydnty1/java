@@ -1,6 +1,9 @@
 # java
 자바코드저장소
 
+상속의 정의
+
+!image[image1.png]
 
 첫번째 과제
 
