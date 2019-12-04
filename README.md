@@ -5,6 +5,10 @@
 
 ![image](./image1.png)
 
+인터페이스의 정의
+
+![image](./image2.png)
+
 >출처 이경숙교수님 PPT
 
 첫번째 과제
