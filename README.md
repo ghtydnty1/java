@@ -1,6 +1,18 @@
 # java
 자바코드저장소
 
+객체란 무엇인가?
+
+![image](./image3.PNG)
+
+객체지향의 장점
+
+![image](./image4.PNG)
+
+클래스란 무엇인가?
+
+![image](./image5.PNG)
+
 상속의 정의
 
 ![image](./image1.PNG)
