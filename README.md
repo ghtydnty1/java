@@ -3,8 +3,6 @@
 
 상속의 정의
 
-![image](./image1.png)
-
 인터페이스의 정의
 
 ![image](./image2.PNG)
