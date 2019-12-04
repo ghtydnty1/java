@@ -3,7 +3,7 @@
 
 상속의 정의
 
-!image(./image1.png)
+[image](./image1.png)
 
 첫번째 과제
 
