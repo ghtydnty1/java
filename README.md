@@ -7,7 +7,7 @@
 
 인터페이스의 정의
 
-![image](./image2.png)
+![image](./image2.PNG)
 
 >출처 이경숙교수님 PPT
 
